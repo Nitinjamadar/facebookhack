@@ -17,7 +17,7 @@ def about():
     print ('')
     print (G+'[*]==//'+O+' Kata Kata Unfaedah'+W)
     print ('')
-    print ('
+    print ('Kami segenap anggota team Hax7 mengucapkan Terimakasih karena sudah menggunakan tool buatan kami (Sebenarnya buatan Saya sendiri). Kami membuat tool ini karena kami termotivasi dengan banyaknya orang orang Goblok yang masih berkeliaran di masyarakat (Termasuk Saya). Karena itu, kami pun membuat tool ini untuk membantu para Lamer Tolol untuk menjadi Heker dalam waktu singkat.')
     print ('')
     print (G+'[*]==//'+O+' How to Use'+W)
     print ('')
