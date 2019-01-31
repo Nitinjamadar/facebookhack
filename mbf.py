@@ -94,11 +94,11 @@ def inputD(x,v=0):
 			if a.upper() in v:
 				break
 			else:
-				tampil('\rm[!]==// Pilih opsinya dong Goblok')
+				tampil('\rm[!]==// Pilih opsinya dong bro')
 				continue
 		else:
 			if len(a) == 0:
-				tampil('\rm[!]==// yang bener mas bro masukan perintah nya, liat yang disuruh masukan apa, ok bro')
+				tampil('\rm[!]==// Yang bener dong bro')
 				continue
 			else:
 				break
