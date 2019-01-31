@@ -17,7 +17,7 @@ def about():
     print ('')
     print (G+'[*]==//'+O+' Kata Kata Unfaedah'+W)
     print ('')
-    print ('Kami segenap anggota team Hax7 mengucapkan Terimakasih karena sudah menggunakan tool buatan kami (Sebenarnya buatan Saya sendiri). Kami membuat tool ini karena kami termotivasi dengan banyaknya orang orang Goblok yang masih berkeliaran di masyarakat (Termasuk Saya). Karena itu, kami pun membuat tool ini untuk membantu para Lamer Tolol untuk menjadi Heker dalam waktu singkat.')
+    print ('
     print ('')
     print (G+'[*]==//'+O+' How to Use'+W)
     print ('')
@@ -98,7 +98,7 @@ def inputD(x,v=0):
 				continue
 		else:
 			if len(a) == 0:
-				tampil('\rm[!]==// Yang bener dong Ngentod')
+				tampil('\rm[!]==// yang bener mas bro masukan perintah nya, liat yang disuruh masukan apa, ok bro')
 				continue
 			else:
 				break
